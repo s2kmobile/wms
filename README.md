@@ -1,5 +1,4 @@
-# wms
-[S2K Mobile Warehouse Documentation](https://s2kmobile.github.io/wms/)
+# [S2K Mobile Warehouse Documentation](https://s2kmobile.github.io/wms/)
 
-## Options
-[Picking](https://s2kmobile.github.io/picking)
+## Home options
+[Picking](https://s2kmobile.github.io/docs/picking)
