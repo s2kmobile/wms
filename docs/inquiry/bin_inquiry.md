@@ -23,3 +23,8 @@ house![house.jpg]({{site.baseurl}}/docs/inquiry/house.jpg)
 1.
 2.
 3.
+
+|Head1|Head2|Head3|
+|---|---|---|
+|col1|col2|col23|
+|col1|col2|col23|
