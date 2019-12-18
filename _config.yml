@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: S2K Mobile WMS Documentation
+title: Mobile WMS 
 description: >- # this means to ignore newlines until "baseurl:"
   S2K Mobile Warehouse Documentation
 baseurl: "/wms" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-# markdown: kramdown
-# theme: "just-the-docs"  
-remote_theme: pmarsceill/just-the-docs
+markdown: kramdown
+theme: "just-the-docs"  
+
+# remote_theme: pmarsceill/just-the-docs
 
 # plugins:
   # - jekyll-feed

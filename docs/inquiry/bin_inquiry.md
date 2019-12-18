@@ -2,7 +2,7 @@
 layout: default
 title: Bin Inquiry
 parent: Inquiry
-nav_order: 1
+nav_order: 3
 published: true
 ---
 
