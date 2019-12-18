@@ -13,7 +13,7 @@ This is Bin inquiry.
 house![house.jpg]({{site.baseurl}}/docs/inquiry/house.jpg)
 
 
-[vai](www.vai.net)
+[vai](http://www.vai.net)
 
 
 
