@@ -1,6 +1,6 @@
 # [WMS Documentation](https://s2kmobile.github.io/wms/)
 
-[Github Repo] (https://github.com/s2kmobile/wms)
+[Github Repo](https://github.com/s2kmobile/wms)
 
 ## License
 
