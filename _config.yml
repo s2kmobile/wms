@@ -22,6 +22,8 @@ baseurl: "/wms" # the subpath of your site, e.g. /blog
 # Build settings
 # theme: "just-the-docs"  
 
+# markdown: kramdown
+# theme: "just-the-docs"  
 remote_theme: pmarsceill/just-the-docs
 
 # plugins:
