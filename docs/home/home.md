@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Receiving
+title: Home
 nav_order: 3
 has_children: true
-permalink: /docs/receiving
+permalink: /docs/home
 ---
 
-# Receiving
+# Home
